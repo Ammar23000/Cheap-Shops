@@ -2,8 +2,7 @@ Group: 83
 Name: AMMAR Muhammad
 Student ID (1257719)
 
-#Application link: https://projectsample381.render.com/
-
+#Application link: https://cheap-shop-information-management-system.onrender.com
 *******************************************************
 # The Purpose of this application is to help people to save information about the shops which sell items that are cheaper than the other shops, as not everyone can bear to buy expensive products. They can always get access to the information they have created.
 
@@ -16,7 +15,8 @@ As each user has a userID and a password to login to his account and get access 
 [
 	{userid: userA, password: am123},
 	{userid: userB, password: am123},
-	{suerid: userC, password: am123}
+	{userid: userC, password: am123},
+ 	{userid: userD, password: am123}
 ]
 
 When the user has successfully login into the appplication, the userid will automatically be stored in the session.
